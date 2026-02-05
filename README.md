@@ -57,4 +57,4 @@ A simple "Hello World" full-stack application built with **Django** (Backend) an
 - **Vite**: Used for its superior development experience and fast build times.
 - **Django**: Chosen for its robustness and ease of setting up a structured API.
 - **CORS**: Configured in Django to allow the React frontend to fetch data during local development.
-- **Responsive Design**: Custom CSS ensures the application looks premium on all screen sizes and supports dark mode..
+- **Responsive Design**: Custom CSS ensures the application looks premium on all screen sizes and supports dark mode.
